@@ -36,5 +36,7 @@ IAM USER WITH ADMIN ACCESS
 TERRAFORM
 
 **TO PROVISION THE RESOURCES**
+
 terraform init 
+
 terraform apply -auto-approve
